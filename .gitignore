@@ -1,2 +1,6 @@
 .vscode
+.idea
+*.log
 chromedriver.exe
+usa-proxies
+*-out
